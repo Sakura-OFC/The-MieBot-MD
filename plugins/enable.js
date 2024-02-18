@@ -2,7 +2,7 @@ require('../main.js')
 const fs = require("fs") 
 const path = require("path")
 const chalk = require("chalk");
-const { smsg, getGroupAdmins, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, runtime, fetchJson, getBuffer, jsonformat, delay, format, logic, generateProfilePicture, parseMention, getRandom} = require('../libs/fuctions.js'); 
+const { smsg, getGroupAdmins, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, runtime, fetchJson, getBuffer, jsonformat, delay, format, logic, generateProfilePicture, parseMention, getRandom } = require('../libs/fuctions.js'); 
 
 async function enable(m, command, isGroupAdmins, text, command, args, isBotAdmins, isGroupAdmins, isCreator) {
 if (global.db.data.users[m.sender].registered < true) return m.reply(info.registra)
@@ -126,11 +126,11 @@ if (!isCreator) return m.reply(info.owner)
 if (!text) return m.reply(`${lenguaje.enable.text}\n\n*• ${prefix + command} on*\n*• ${prefix + command} off*`)
 if (args[0] === "on") {
 global.db.data.settings[numBot].antiprivado = true
-//conn.antiprivado = true
+//global.db.data.chats[m.chat].antiprivado = true
 m.reply(`✅ *${command}* ${lenguaje.enable.text1}`)
 } else if (args[0] === "off") {
 global.db.data.settings[numBot].antiprivado = false
-//conn.antiprivado = false
+//global.db.data.chats[m.chat].antiprivado = false
 m.reply(`🟢 *${command}* ${lenguaje.enable.text2}`)}}
 
 if (command == 'anticall' || command == 'antillamada') {
@@ -176,8 +176,8 @@ global.db.data.chats[m.chat].antispam = false
 m.reply(`🟢 *${command}* ${lenguaje.enable.text2}`)}}
 
 if (command == 'chatbot' || command == 'simsimi') {
-//if (!m.isGroup) return m.reply(info.group)
-//if (!isGroupAdmins) return m.reply(info.admin)
+if (!m.isGroup) return m.reply(info.group)
+if (!isGroupAdmins) return m.reply(info.admin)
 if (!text) return m.reply(`${lenguaje.enable.text}\n\n*• ${prefix + command} on*\n*• ${prefix + command} off*`)
 if (args[0] === "on") {
 global.db.data.chats[m.chat].simi = true

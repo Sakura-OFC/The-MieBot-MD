@@ -7,7 +7,6 @@ const { smsg, getGroupAdmins, formatp, tanggal, formatDate, getTime, isUrl, slee
 async function randow(m, sender, command, sendImageAsUrl, pickRandom, conn) {
 if (global.db.data.users[m.sender].registered < true) return m.reply(info.registra)
 if (global.db.data.users[m.sender].limit < 1) return m.reply(info.endLimit)
-if (global.db.data.users[m.sender].banned) return
 if (command == 'memes') {
 let hispamemes = require("hispamemes") 
 const meme = hispamemes.meme()
@@ -42,7 +41,6 @@ sendImageAsUrl(result, `${command}`)}}
 async function randow2(conn, m, command, text, sender, pushname) {
 if (global.db.data.users[m.sender].registered < true) return m.reply(info.registra)
 if (global.db.data.users[m.sender].limit < 1) return m.reply(info.endLimit)
-if (global.db.data.users[m.sender].banned) return
 if (command == 'horny') {
 let who = conn
 conn.sendMessage(m.chat, { image: { url: global.API('https://some-random-api.com', '/canvas/horny', { 

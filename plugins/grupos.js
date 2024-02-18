@@ -15,7 +15,6 @@ require('../main')
 
 async function grupo(m, command, isGroupAdmins, text, conn, participants, isBotAdmins, args, isCreator, delay, sender, quoted, mime, from, isCreator, groupMetadata, fkontak, delay, store) {
 if (global.db.data.users[m.sender].registered < true) return m.reply(info.registra)
-if (global.db.data.users[m.sender].banned) return
 if (command == 'hidetag' || command == 'notificar' || command == 'tag') {  
 if (!m.isGroup) return m.reply(info.group) 
 if (!isGroupAdmins) return m.reply(info.admin)
@@ -26,8 +25,7 @@ if (command == 'grupo') {
 if (!m.isGroup) return m.reply(info.group);  
 if (!isBotAdmins) return m.reply(info.botAdmin);  
 if (!isGroupAdmins) return m.reply(info.admin)
-if (!text) return conn.sendPoll(m.chat, `${lenguaje.enable.text}\n*${prefix + command} abrir*\n*${prefix + command} cerrar*\nSelecione una de esta opción`, ['grupo abrir','grupo cerrar'])
-//m.reply(`${lenguaje.enable.text}\n*${prefix + command} abrir*\n*${prefix + command} cerrar*`)
+if (!text) return m.reply(`${lenguaje.enable.text}\n*${prefix + command} abrir*\n*${prefix + command} cerrar*`)
 if (args[0] === 'abrir') {
 m.reply(lenguaje.grupos.text1)
 await conn.groupSettingUpdate(m.chat, 'not_announcement')
