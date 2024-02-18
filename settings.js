@@ -4,24 +4,24 @@ const chalk = require('chalk')
 const { en, es, ar, id, pt, rs} = require('./libs/idiomas/total-idiomas.js') 
 
 //---------[ PROPIETADO/OWNER ]---------
-global.owner = [["5492266466080", "Owner", true], ["573026191480"], ["593968585383"], ["5492266466080"], ["595986172767"], ["5492266613038"], ["5217294888993"],["5214437863111"], ["51906662557"], ["595992302861"], ["5217441298510"], ["5491155983299"], ["573013482814"]]
+global.owner = [["595976126756", "Owner", true], ["595994836199"], ["595986637644"], ["595971263989"], ["595982216131"], ["595994825505"], ["595986224522"]]
 global.mods = []
 global.premium = []  
 global.blockList = []  
 
 //---------[ NOMBRE/INFO ]---------
-global.botname = "𝐍𝐨𝐯𝐚𝐁𝐨𝐭-𝐌𝐃"
-global.wm = 'Ｎ Ｏ Ｖ Ａ Ｂ Ｏ Ｔ- Ｍ Ｄ 💫'
-global.vs = '1.0.9'
+global.botname = "𝒯𝒽ℯ-ℳ𝒾ℯℬℴ𝓉-ℳ𝒟"
+global.wm = '𝑇ℎ𝑒-𝑀𝑖𝑒𝐵𝑜𝑡-𝑀𝐷'
+global.vs = '1.0.0'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "" //Ejemplo: +595994836199
 global.phoneNumber = ""
 
 //---------[ FECHA/IDIOMAS ]---------
 global.place = 'America/Bogota' // Aquí puedes encontrar tu ubicación https://momentjs.com/timezone/
 global.lenguaje = es //Predeterminado en idioma Español 
-global.prefix = [`/`]
+global.prefix = [`.`]
 
 //---------[ APIS GLOBAL ]---------
 global.keysZens = ['LuOlangNgentot', 'c2459db922', '37CC845916', '6fb0eff124', 'hdiiofficial', 'fiktod', 'BF39D349845E', '675e34de8a', '0b917b905e6f']; 
@@ -69,7 +69,7 @@ global.APIKeys = {
 };
  
 //---------[ STICKERS ]---------
-global.packname = "𝐍𝐨𝐯𝐚𝐁𝐨𝐭-𝐌𝐃"
+global.packname = "𝑇ℎ𝑒-𝑀𝑖𝑒𝐵𝑜𝑡𝑀𝐷"
 global.author = `${vs}`
  
 //---------[ IMAGEN ]---------
@@ -79,23 +79,23 @@ global.imagen3 = fs.readFileSync('./media/menu3.jpg')
 global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 
 //---------[ ENLACE ]---------
-global.md = 'https://github.com/elrebelde21/NovaBot-MD'
-global.yt = 'https://www.youtube.com/@elrebelde.21'
-global.tiktok = 'tiktok.com/@elrebelde21'
-global.fb = 'https://www.facebook.com/elrebelde21'
+global.md = 'https://github.com/TheDiosBot-MD/The-MieBot-MD'
+global.yt = 'https://www.youtube.com/@AdrianOficial905'
+global.tiktok = 'tiktok.com/@AdrianOfcial'
+global.fb = 'https://www.facebook.com/AdrianAlegreSanchez'
 global.faceb = 'https://facebook.com/groups/872989990425789/'
 
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update 
-global.nn = 'https://chat.whatsapp.com/C6sxsP2ckrr2vxMKclOeCD' //LoliBot
-global.nn2 = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Loli & Nova
-global.nn3 = 'https://chat.whatsapp.com/Ej5AUrpmYnJKYtEa6YMwK6' //Grupo de Colaboracion
-global.nn4 = 'https://chat.whatsapp.com/E9qJfvlLjENKAxnhII9rao' // Grupo COL 2
-global.nn5 = 'https://chat.whatsapp.com/B6vVEmV3zffHNyabOMtzSb' //Grupo COL 3
-global.nn6 = 'https://chat.whatsapp.com/Em4Byf4w5VgHObPvZQlfnM' //test
-global.nn7 = 'https://chat.whatsapp.com/FDRfhecUGrCEQswkg8FUYz' //Grupo ayuda sobre el bot
-global.nn8 = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //enlace lolibot
-global.multi = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo COL 4
-global.nna2 = 'Em4Byf4w5VgHObPvZQlfnM'
+global.nna = 'https://whatsapp.com/channel/0029VaNE7Vi4IBhD2aYT8N2O' //Update 
+global.nn = 'https://chat.whatsapp.com/JiV3MmlAynCEMdDkDVQoLu' //Lo
+global.nn2 = 'https://chat.whatsapp.com/JiV3MmlAynCEMdDkDVQoLu' //Loli & Nova
+global.nn3 = 'https://chat.whatsapp.com/JiV3MmlAynCEMdDkDVQoLu' //Grupo de Colaboracion
+global.nn4 = 'https://chat.whatsapp.com/JiV3MmlAynCEMdDkDVQoLu' // Grupo COL 2
+global.nn5 = 'https://chat.whatsapp.com/JiV3MmlAynCEMdDkDVQoLu' //Grupo COL 3
+global.nn6 = 'https://chat.whatsapp.com/JiV3MmlAynCEMdDkDVQoLu' //test
+global.nn7 = 'https://chat.whatsapp.com/JiV3MmlAynCEMdDkDVQoLu' //Grupo ayuda sobre el bot
+global.nn8 = 'https://chat.whatsapp.com/JiV3MmlAynCEMdDkDVQoLu' //enlace lolibot
+global.multi = 'https://chat.whatsapp.com/JiV3MmlAynCEMdDkDVQoLu' //Grupo COL 4
+global.nna2 = 'https://chat.whatsapp.com/JiV3MmlAynCEMdDkDVQoLu'
 
 //---------[ INFO ]--------- 
 global.info = { wait: '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*', 

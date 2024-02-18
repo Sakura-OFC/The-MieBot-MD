@@ -1,145 +1,116 @@
-> <b>  🚀 Version 1.0.9 </b>
+# `The-MieBot-MDV4` 
 
+### `▢ CUENTA OFICIAL`
 
-<p align="center">
-<a href="#"><img title="NovaBot-MD" src="https://telegra.ph/file/343e60521da533ea8a2d3.jpg/badge/a -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="#"><img title="The-LoliBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
-<a href="#"><img title="LoliBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
-<div align="center">
-<a href="https://facebook.com/groups/872989990425789/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-<a href="https://www.youtube.com/@elrebelde.21">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-<a href="https://www.tiktok.com/@lolibot_?_t=8ge2zeRZ04r&_r=1" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
-</a>
-<a href="https://play.google.com/store/apps/details?id=com.mercadopago.wallet" target="_blank"> <img src="https://img.shields.io/badge/Mercado_pago_Alias:_OficialGB-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
-</a>
-</div>
-    
-### `👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<p align="center">
-<a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
-</p>
-    
-<a href="wa.me/573183650526" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+[  ] https://www.instagram.com/@adri.analegresanchez
 
-### `🟢 Bot Oficial 🟢`
-<a href="https://wa.me/584125418042" target="blank"><img src="https://img.shields.io/badge/NovaBot oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+### `▢ GRUPO OFICIAL`
 
-### Quieres probar la funciones del bot, antes de instalar, probar el bot aquí
+<a href="https://chat.whatsapp.com/JiV3MmlAynCEMdDkDVQoLu" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE_(ES)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-[![Grupos](https://img.shields.io/badge/Grupos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Em4Byf4w5VgHObPvZQlfnM) 
+ ### `▢ BOTS OFICIALES`
 
------------------- 
+<a href="https://api.whatsapp.com/send/?phone=595994825505&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1_(ACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `🟢 𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙴𝙽 𝚁𝙴𝙿𝙻𝙸𝚃`
+<a href="https://api.whatsapp.com/send/?phone=595982216131&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_2_(ACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-[![blog](https://img.shields.io/badge/Replit-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/SMjCcfuyWQE)
+### `▢ DONAR`
+- SE AGRADECE CUAQLQUIER AYUDA VOLUNTARIA YA SEA CON UN NUMERO PARA EL BOT ETC.
 
-[![Run on Repl.it](https://repl.it/badge/github/elrebelde21/NovaBot-MD)](https://repl.it/github/elrebelde21/NovaBot-MD) 
+### `▢ PLUGINS`
+- TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
 
------------------- 
+### `▢ AJUSTES`
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/The-DiosBot-MD/The-MieBot-MD/fork)
+- CAMBIAR NÚMERO DEL PROPIETARIO(A) [Aqui](https://github.com/The-DiosBot-MD/The-MieBot-MD/blob/master/config.js)
+  
+### `▢ ACTIVAR EN KOYEB`
 
-## 𝙰𝙲𝚃𝙸𝚅𝙰 𝙴𝙻 𝚃𝙴𝚁𝙼𝚄𝚇
-👇 Pasos para instalar el bot via termux 👇
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/The-DiosBot-MD/The-MieBot-MD&branch=master&name=mysticbot)
+  
+### `▢ ACTIVAR EN REPLIT`
 
-[![blog](https://img.shields.io/badge/Video-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/OhbJjp0L2QA?si=LUTw6tIkQmP7XOhp)
+[![Run on Repl.it](https://repl.it/badge/github/The-DiosBot-MD/The-MieBot-MD)](https://repl.it/github/The-DiosBot-MD/The-MieBot-MD) 
+  
+### `▢ ACTIVAR EN RENDER`
 
-[`💫 Instalar termux clic aqui`](https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FThe-DiosBot-MD%2FThe-MikuBot-MDV4) 
+
+### `▢ ACTIVAR EN ZIPPONODES`
+<a href="https://www.zipponodes.com"><img src="https://cdn.zipponodes.com/zipponodes/logos/logo_zipponodes_transparent2.png" width="350" height="130" alt="PNG"/></a>
+- Sitio web: [zipponodes.com](https://www.zipponodes.com)
+- Dash: [dash.zipponodes.com](https://dash.zipponodes.com)
+- Panel: [panel.zipponodes.com](https://panel.zipponodes.com)
+- Documentación: [docs.zipponodes.com](https://docs.zipponodes.com)
+- Grupo de WhatsApp: [whatsapp.zipponodes.com](https://whatsapp.zipponodes.com)
+
+### `▢ ACTIVAR EN BOXMINEHOST`
+<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
+- Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
+- Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
+- Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
+- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/eC9TfKICpcY)
+- Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
+
+### `▢ ACTIVAR EN TERMUX` 
+- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+```bash
+cd && termux-setup-storage
+```
 
 ```bash
-termux-setup-storage
+apt-get update -y && apt-get upgrade -y
 ```
+
 ```bash
-apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn
+pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
 ```
+
 ```bash
-git clone https://github.com/elrebelde21/NovaBot-MD && cd NovaBot-MD && yarn && npm install
+git clone https://github.com/The-DiosBot-MD/The-MieBot-MD.git && cd The-MieBot-MD
 ```
+
+```bash
+yarn install
+```
+
+```bash
+npm install
+```
+
+```bash
+npm update
+```
+
 ```bash
 npm start
 ```
 
-### `🟢 𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙴𝙽 𝙲𝙰𝚂𝙾 𝙳𝙴 𝙳𝙴𝚃𝙴𝙽𝙴𝚁𝚂𝙴 𝙴𝙽 𝚃𝙴𝚁𝙼𝚄𝚇`
-Si despues que ya instalastes tu bot y termux te salta en blanco, se fue tu internet o reiniciaste tu celular, solo realizaras estos pasos
+### `▢ ACTIVAR EN CASO DE DETENERSE EN TERMUX`
 ```bash
-> cd NovaBot-MD
-> npm start
-```
-### `🟢 𝙾𝙱𝚃𝙴𝙽𝙴𝚁 𝙾𝚃𝚁𝙾 𝙲𝙾𝙳𝙸𝙶𝙾 𝚀𝚁 𝙴𝙽 𝚃𝙴𝚁𝙼𝚄𝚇`
-Detener el bot apretado CTRL y aplastas Z en tu teclado, darle enter y escribe:
-```bash
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd NovaBot-MD
-> rm -rf sessions
+> cd The-MieBot-MD
 > npm start
 ```
-### `🤖 𝙿𝙰𝚁𝙰 𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝟸𝟺/𝟽 (𝚃𝙴𝚁𝙼𝚄𝚇)`
+
+### `▢ OBTENER OTRO CODIGO QR EN TERMUX`
+- DETEN EL BOT, HAZ CLICK EN EL SIMBOLO CTRL DE TERMUX MAS Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A The-MieBot-MD $  
 ```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+> cd 
+> cd The-MieBot-MD
+> rm -rf Session
+> npm start
 ```
+ ### `▢ DUDAS SOBRE EL BOT?, CONTACTANOS`
+<a href="http://wa.me/595994836199" target="blank"><img src="https://img.shields.io/badge/Adrian Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595986637644" target="blank"><img src="https://img.shields.io/badge/COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595971253989" target="blank"><img src="https://img.shields.io/badge/COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595982216131" target="blank"><img src="https://img.shields.io/badge/COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595994825505" target="blank"><img src="https://img.shields.io/badge/COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
------------------- 
-
-###  🚀 VORTEXUSCLOUD HOST
-[![blog](https://img.shields.io/badge/Vortexuscloud-NovaBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/Xp2jRbG_v8o?si=nSAj4vUdz9tS31pO)
-> Activar NovaBot-MD 24/7 en Vortexuscloud Host
-
-<a href="https://vortexuscloud.com"><img src="https://telegra.ph/file/4bd3d8d14e5683073d4f3.jpg" height="125px"></a>
-### vortexus cloud
-
-- **Pagina Oficial:** [`Vortexuscloud`](https://vortexuscloud.com)
-- **Crear cuenta en la Dashboard:** [`Dashboard`](https://youtu.be/JUg7DWUY6_Y?si=DHwk9dwjvWdPEIBJ)
-- **Dashboard:** [`Dash`](https://dash.vortexuscloud.com)
-- **Panel:** [`Aquí`](https://panel.vortexuscloud.com)
-- **Contacto:** [`Aquí`](https://wa.me/258858119033) 
-- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Va8ZD6O3mFXxTPl1m13A)
-
-- [x] **Configuración** <details><summary>**Ajustes del Servidor - NovaBot-MD**</summary><img src="https://telegra.ph/file/5f7ea409a01756d76568f.jpg"></details>
-
------------------- 
-
-### 📌 CAFIREXOS HOST
-[![blog](https://img.shields.io/badge/Cafirexos-NovaBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-]()
-> Activar NovaBot-MD 24/7 en cafirexos Host
-
-<a href="https://www.cafirexos.com/"><img src="https://telegra.ph/file/f400ffe819ad3c0fc87b9.jpg" height="125px"></a>
-### Información del Host
-
-- **Página:** [`Cafirexos`](https://www.cafirexos.com)
-- **Dashboard:** [`Aquí`](https://dash.cafirexos.com)
-- **Panel:** [`Aquí`](https://panel.cafirexos.com/)
-- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VaFVSkRCMY0KFmCMDX2q)
-- **Grupo de WhatsApp:** [`Aquí`](https://chat.whatsapp.com/FBtyc8Q5w2iJXVl5zGJdFJ)
-- **Correo:** [`Aquí`](mailto:contacto@cafirexos.com)
-- **Contacto:** [`Diego Flores`](https://wa.me/50497150165)
-
-- [x] **Configuración** <details><summary>**Ajustes del Servidor - NovaBot-MD**</summary><img src="https://telegra.ph/file/38d1458d37957d7323e7b.jpg"></details>
-
------------------- 
-
-## `𝙴𝙳𝙸𝚃𝙾𝚁 𝚈 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃`
-
-<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="250" height="250" alt="elrebelde21"/></a>
-
-## `👑 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁𝙴𝚂 👑`
-
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
-[![Skidy89](https://github.com/Skidy89.png?size=100)](https://github.com/Skidy89) 
-[![AzamiJs](https://github.com/AzamiJs.png?size=100)](https://github.com/AzamiJs)  
-[![KatashiFukushima](https://github.com/KatashiFukushima.png?size=100)](https://github.com/KatashiFukushima)
-[![sensei-ofc](https://github.com/sensei-ofc.png?size=100)](https://github.com/sensei-ofc)
-[![diegojadibot](https://github.com/diegojadibot.png?size=100)](https://github.com/diegojadibot)
-
-## `𝙰𝙶𝚁𝙰𝙳𝙴𝙲𝙸𝙼𝙸𝙴𝙽𝚃𝙾𝚂 & 𝙲𝚁𝙴𝙳𝙸𝚃𝙾𝚂` 
-<a href="https://github.com/ferhacks"><img src="https://github.com/ferhacks.png" width="150" height="150" alt="ferhacks"/></a>
-<a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
+## `▢ EDITOR & PROPIETARIO DEL BOT` 
+<a href="https://github.com/The-DiosBot-MD"><img src="https://github.com/The-DiosBot-MD.png" width="250" height="250" alt="The-DiosBot-MD"/></a>
+  
+`The-MieBot-MD - By The-DiosBot-MD`
