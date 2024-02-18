@@ -1,7 +1,7 @@
 {
   "name": "The-MieBot-MD",
   "description": "Bot de whatsapp simple",
-  "repository": "https://github.com/The-DiosBot-MD/The-MieBot-MD",
+  "repository": "https://github.com/Sakura-OFC/The-MieBot-MD",
   "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [

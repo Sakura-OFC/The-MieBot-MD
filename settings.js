@@ -4,7 +4,7 @@ const chalk = require('chalk')
 const { en, es, ar, id, pt, rs} = require('./libs/idiomas/total-idiomas.js') 
 
 //---------[ PROPIETADO/OWNER ]---------
-global.owner = [["595976126756", "Owner", true], ["595994836199"], ["595986637644"], ["595971263989"], ["595982216131"], ["595994825505"], ["595986224522"]]
+global.owner = [["595987138033", "Owner", true], ["595994836199"], ["595986637644"], ["595971263989"], ["595982216131"], ["595994825505"], ["595976126756"], ["595986224522"]]
 global.mods = []
 global.premium = []  
 global.blockList = []  
@@ -79,12 +79,13 @@ global.imagen3 = fs.readFileSync('./media/menu3.jpg')
 global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 
 //---------[ ENLACE ]---------
-global.md = 'https://github.com/TheDiosBot-MD/The-MieBot-MD'
+global.md = 'https://github.com/Sakura-OFC/The-MieBot-MD'
+//Ayudandes web
 global.yt = 'https://www.youtube.com/@AdrianOficial905'
 global.tiktok = 'tiktok.com/@AdrianOfcial'
 global.fb = 'https://www.facebook.com/AdrianAlegreSanchez'
 global.faceb = 'https://facebook.com/groups/872989990425789/'
-
+//Grupos
 global.nna = 'https://whatsapp.com/channel/0029VaNE7Vi4IBhD2aYT8N2O' //Update 
 global.nn = 'https://chat.whatsapp.com/JiV3MmlAynCEMdDkDVQoLu' //Lo
 global.nn2 = 'https://chat.whatsapp.com/JiV3MmlAynCEMdDkDVQoLu' //Loli & Nova
