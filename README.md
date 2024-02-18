@@ -1,6 +1,6 @@
 ### `▢ GRUPO OFICIAL`
 
-<a href="https://chat.whatsapp.com/JiV3MmlAynCEMdDkDVQoLu" target="blank"><img src="https://img.shields.io/badge/The-MieBot-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://chat.whatsapp.com/JiV3MmlAynCEMdDkDVQoLu" target="blank"><img src="https://img.shields.io/badge/GRUPO_OFICIAL_(ES)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
  ### `▢ Contacto`
 
